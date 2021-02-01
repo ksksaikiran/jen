@@ -1,6 +1,4 @@
-<html>
 
-<head>
 
 <title>
 mypc.com
@@ -39,7 +37,4 @@ mypc.com
 
 
 
-					</body>
-
-
-					</html>
+				
