@@ -3,7 +3,7 @@
 <head>
 
 <title>
-mypc.com
+amazon.com
 
 					</title><link rel="stylesheet" href="style1.css">
 					</head>
