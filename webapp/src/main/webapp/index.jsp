@@ -1,38 +1,45 @@
- <html>
+<html>
 
 <head>
 
-         <title>
-       amazon.com
-	</title>
-<link rel="stylesheet" href="style1.css">
-     </head>
-<body bgcolor="white">
+<title>
+mypc.com
 
-<h2 align="center" >
-	<font size="6" color="red" face="georgia"> <hr>To run the test </font> 
- </h2><hr><br>
-<font face="times new roman" color=" black" >
+					</title><link rel="stylesheet" href="style1.css">
+					</head>
+<body style="background-image:url(https://www.teahub.io/photos/full/26-264021_wallpaper-love-shape-balloons-love-balloon-wallpaper-hd.jpg)" width="500" height"500">
+<h1><center><font " face="mistral" color="green">
 
-you'll be connected to Measurement Lab (M-Lab) and
-your IP address will be shared with them and
-processed by them in accordance with their privacy policy.
-<br><br>
- 
-<u>H<sub>2</sub>O</u><br>
+</center></h1>
+</font>
 
-<br>a<sup>2</sup>+b<sup>2</sup>
 <br>
 
-	<br><br>M-Lab conducts the test and publicly publishes all test results 
-to promote Internet research.<br><br>
-	Published information includes your IP address and test results,
-but doesn’t include any other information about you as an Internet user.<br><br><hr><hr></font>
-<marquee bgcolor="green" direction="left" width="100%"scrollamount="10"><font face="impact" size="4" color="orange">
-<b>MY NAME IS SAI</b>
-</font>
-</marquee><b> <hr><hr></b>
 
- </body>
 
-   </html>
+<center><a href="https://www.buddies.com/" target="blank"><img src="https://image.shutterstock.com/image-vector/2021-happy-new-year-black-260nw-1689506104.jpg" width="250" height="250">
+</center><br>
+     </a><br>
+
+<center><b>HELLO DEARS 
+</b><br><br>
+<b>Im your friend SAIKIRAN.</b><br><br><h3>
+<b>Hope you guys doing well, anyways I wish all a very good New Year. 
+</h3>
+
+</b><br><center><h2><font face= "mistral" size="25"><b>" HAPPY NEW YEAR "</font></b></h2>
+</center>
+
+<br><br>
+<b><marquee bgcolor="pink" size="15" face="georgia" color="red" width="100%" scrollamount="15">
+    
+             I  WISH  YOU  HAPPY  NEW  YEAR..!!
+</marquee></b>
+
+
+
+
+					</body>
+
+
+					</html>
