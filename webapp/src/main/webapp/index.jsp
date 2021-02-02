@@ -3,7 +3,7 @@
 <head>
 
 <title>
-zomoto.com
+swiggy.com
 
 					</title><link rel="stylesheet" href="style1.css">
 					</head>
