@@ -33,7 +33,7 @@ swiggy.com
 <br><br>
 <b><marquee bgcolor="pink" size="15" face="georgia" color="red" width="100%" scrollamount="15">
     
-             I  WISH  YOU  HAPPY  NEW  YEAR..!!
+            !!..HAPPY SANKRANTHI..!!
 </marquee></b>
 
 
