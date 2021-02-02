@@ -3,7 +3,7 @@
 <head>
 
 <title>
-amazon.com
+zomoto.com
 
 					</title><link rel="stylesheet" href="style1.css">
 					</head>
