@@ -3,7 +3,7 @@
 <head>
 
 <title>
-zomato.com
+Myntra.com
 
 					</title><link rel="stylesheet" href="style1.css">
 					</head>
