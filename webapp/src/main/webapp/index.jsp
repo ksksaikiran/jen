@@ -3,7 +3,7 @@
 <head>
 
 <title>
-Myntra.com
+Ellora.com
 
 					</title><link rel="stylesheet" href="style1.css">
 					</head>
